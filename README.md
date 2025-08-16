@@ -1,12 +1,11 @@
 
-# Light Bulb Toggle Project 💡
-A simple website where you can toggle a light bulb on/off using HTML, CSS, and JavaScript.
+# Tuggable Light Bulb (GSAP + Draggable + MorphSVG)
+
+An interactive web animation where you can **drag and tug a light bulb** using [GSAP](https://greensock.com/gsap/) and its plugins.  
+The bulb reacts with **smooth animations**, **morphing effects**, and springs back naturally when released.
 
 ## Features
-- On/Off button for bulb
-- Interactive UI
-- Clean structure with `src/` and `assets/` folders
-
-## Run Locally
-1. Clone repo: `git clone https://github.com/username/light-bulb-toggle.git`
-2. Open `src/index.html` in your browser
+- Built with **GSAP**, **Draggable**, and **MorphSVG**
+- Interactive SVG light bulb that can be pulled/tugged
+- Realistic animation effects (stretch, glow, bounce)
+- Written in **Pug** (HTML templating) and **Stylus** (CSS preprocessor)
